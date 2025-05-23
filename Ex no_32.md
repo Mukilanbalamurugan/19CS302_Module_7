@@ -16,8 +16,8 @@ using structure.
 ## Program:
 ```
 C program to display Hardware details such as price, product name and price using structure.
-Developed by: Mukesh Hs
-RegisterNumber:  212222060155
+Developed by: Mukilan B
+RegisterNumber:  212222060156
 */
 #include<stdio.h> 
 struct hardware
