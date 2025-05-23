@@ -15,8 +15,8 @@ To write a C program to find the smallest among three numbers using Structure.
 ## Program:
 ```
 C program to find the smallest among three numbers using Structure.
-Developed by: Mukesh HS
-RegisterNumber:  212222060155
+Developed by: Mukilan B
+RegisterNumber:  212222060156
 */
 #include<stdio.h> 
 int main()
